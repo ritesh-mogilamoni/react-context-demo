@@ -4,7 +4,7 @@ import C from "./components/C"
 
 function App() {
   return (
-    <div className="flex justify-between">
+    <div className="flex gap-30 justify-center m-20">
       
       <A />
       <B />
